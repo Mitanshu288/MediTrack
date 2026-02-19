@@ -253,9 +253,4 @@ python app.py --port 5001
 python reset_with_sample.py
 ```
 
-
-If you have any questions or issues, please open an issue on GitHub or contact nehasardar64@gmail.com
-
----
-
 ⭐ **Star this repository if you find it helpful!**
